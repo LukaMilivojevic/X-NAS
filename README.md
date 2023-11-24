@@ -1,17 +1,16 @@
 # X-NAS #
 
-X-NAS (Extended NAS) je algoritam za pretragu arhitektura neuronskih mreža prilikom kog se vrši optimizacija po 2 parametra - kompleksnosti i uspešnosti mreže.
+X-NAS (Extended NAS) is an algorithm for neural network architecture search and optimization by 2 parameters - complexity and accuracy of the network.
 
-### Sadržaj repo ###
+### Repo content ###
 
-* Sav kod vezan za projekat X-NAS
-* Sve requirements pomoću kojih je moguće napraviti virtual environment za projekat
-* Verzija 1
-* Linkove ka bazama
+* All the code needed for the X-NAS project
+* Needed library requirements
+* Links to databases needed for the project
 
-### Setup i opis okruzenja ###
+### Setup ###
 
-* Radi se u conda okruzenjima
+* Conda environment
 * Linter: flake8
 * Formatter: black
 
